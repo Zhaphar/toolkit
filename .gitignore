@@ -1,0 +1,37 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.o
+*.a
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Go specific
+*.exe
+*.test
+*.out
+*.prof
+bin/
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+logs/
+log.txt
+
+# Go Modules Cache
+/go/pkg/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
